@@ -4,7 +4,7 @@
 
 This single page website was designed using "mobile first" design. It features a modern, polished look and feel and is responsive for any screensize. It contains 5 recent projecs. There are social media links at the bottom and a link to my PDF resume.  
 
-## Table of Contents (Optional)
+## Table of Contents
 
 This README is very not long but here is a table of contents nonetheless.
 
